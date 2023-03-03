@@ -1,16 +1,22 @@
-### Hi there 👋
+# Adrian Silva.
 
-<!--
-**adjsvar/adjsvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there!, I am a self-taught software development student, focused mostly in the web area. I have worked with technologies such as HTML, CSS, Bootstrap, JavaScript (ES6), Python, SQL, and React. Although I love the frontend, my goal is to be proficient in the backend technologies as well.
 
-Here are some ideas to get you started:
+Actually i'm following the Javascript Fullstack Bootcamp from Guillermo Rodas and here is my homework:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+5 Most used commands:
+
+| Comand | Description                         |
+| ------ | -----------                         |
+|   ls   | List files in the actual directory  |
+|   cd   | Change the directory                |
+|  mkdir | Create a new directory              |
+| touch  | Create a new file                   |
+| pwd    | prints the actual directory         |
+
+Usefull Alias:
+
+| Alias | Description |
+| ----- | ----------- |
+| c="code ."| Abre vscode en la  
+
