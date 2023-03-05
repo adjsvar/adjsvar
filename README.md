@@ -1,6 +1,6 @@
 # Adrian Silva.
 
-Hi there!, I am a self-taught software development student, focused mostly in the web area. I have worked with technologies such as HTML, CSS, Bootstrap, JavaScript (ES6), Python, SQL, and React. Although I love the frontend, my goal is to be proficient in the backend technologies as well.
+Hi there!, I am a self-taught software development student, focused mostly in the web area. I have worked with technologies such as **HTML, CSS, Bootstrap, JavaScript (ES6), Python, SQL, and React.** Although I love the frontend, my goal is to be proficient in the backend technologies as well.
 
 Actually i'm following the Javascript Fullstack Bootcamp from Guillermo Rodas and here is my homework:
 
@@ -18,5 +18,6 @@ Usefull Alias:
 
 | Alias | Description |
 | ----- | ----------- |
-| c="code ."| Abre vscode en la  
+| c="code ."| Open vscode in the actual directory |
+| 
 
