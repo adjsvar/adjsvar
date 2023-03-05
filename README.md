@@ -6,7 +6,7 @@ Actually i'm following the Javascript Fullstack Bootcamp from Guillermo Rodas an
 
 5 Most used commands:
 
-| Comand | Description                         |
+| Command | Description                         |
 | ------ | -----------                         |
 |   ls   | List files in the actual directory  |
 |   cd   | Change the directory                |
@@ -19,5 +19,7 @@ Usefull Alias:
 | Alias | Description |
 | ----- | ----------- |
 | c="code ."| Open vscode in the actual directory |
-| 
+| cf="touch" | same as touch |
 
+
+BTW, i'm learning english too...
