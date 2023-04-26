@@ -1,6 +1,6 @@
 # Adrian Silva.
 
-Hi there!, I am a self-taught software development student, focused mostly in the web area. I have worked with technologies such as **HTML, CSS, Bootstrap, JavaScript (ES6), Python, SQL, and React.** Although I love the frontend, my goal is to be proficient in the backend technologies as well.
+Hi there!, i am a passionate student of technology and web development. I am self-taught and enjoy learning new things. Currently, I am focusing on front-end development, as it is an area that I enjoy very much, however, I am determined to become a full-stack web developer. I like to face challenges and solve problems, so I am confident that I will be able to expand my skill set and achieve my goals. I consider myself a very motivated and focused person, always looking for new opportunities to learn and grow professionally. I love working in teams and collaborating with others to achieve common goals, and I believe that my interpersonal skills will allow me to excel in any project I am involved in. In my free time, I enjoy watching movies and series, and spending time with friends and family.
 
 Actually i'm following the Javascript Fullstack Bootcamp from Guillermo Rodas and here is my homework:
 
